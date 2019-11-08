@@ -2,7 +2,7 @@
 
 require 'rest-client'
 
-# Search
+# ClassSearch
 class Search
   def search
     puts 'What do you want to search for?'
