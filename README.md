@@ -1,2 +1,2 @@
 # Rest-Client
-This shows how HTTP requests work
+This shows how HTTP requests works
